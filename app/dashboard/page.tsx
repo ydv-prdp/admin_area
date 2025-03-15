@@ -15,7 +15,7 @@ import { BarChartComponent } from "@/components/charts/chart-area-bar"
 import { PieChartComponent } from "@/components/charts/chart-area-pie"
 import { MixChartComponent } from "@/components/charts/chart-area-mix"
 
-export default function Page() {
+export default function DashboardPage() {
   return (
     <SidebarProvider>
       <AppSidebar />
